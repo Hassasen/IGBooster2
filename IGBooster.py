@@ -1,7 +1,7 @@
 import requests
 
 #✅
-server_url = "https://6ac32a5d-3a31-4350-831c-eebd1ac7d386-00-thkjh04b1yri.janeway.replit.dev/receive"
+server_url = "https://ig-booster-hassasen1430.replit.app/receive"
 
 #banner
 print("  ___ ____   ____                  _")
